@@ -1,6 +1,6 @@
 # Data Analyst
 
-### Formations
+## Formations
 
 **Formation Data Analyst – OpenClassrooms (2024)**
 
@@ -12,7 +12,7 @@ Réalisation de projets pratiques : nettoyage de données, création de tableaux
 
 **DEUG de Physique Chimie – Université Toulon Var (1998 - 2000)**
 
-### Expériences Professionnelles
+## Expériences Professionnelles
 
 
 
